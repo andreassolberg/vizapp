@@ -7,17 +7,15 @@
   export let config;
   export let dataset;
 
-  const { fordeling, kategorier, partier } = dataset;
-
-  const { markers, rays, colWidth, catScale } = prepareSankeyData({
+  $: ({ fordeling, kategorier, partier } = dataset);
+  $: ({ markers, rays, colWidth, catScale } = prepareSankeyData({
     fordeling,
     kategorier,
     partier,
     partimeta,
     catmeta,
     config,
-  });
-  console.log("CATEMETA", catmeta);
+  }));
 </script>
 
 <svg
