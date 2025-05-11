@@ -3,7 +3,7 @@ import _ from "lodash";
 import { processPartifordeling } from "./helpers";
 
 export const load: PageServerLoad = async ({ fetch }) => {
-  const filenames = ["/politikk-data.json"];
+  const filenames = ["/politikk-data24.json"];
   let allData: any[] = [];
 
   for (const filename of filenames) {
