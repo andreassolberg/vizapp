@@ -1,4 +1,5 @@
 import type { PageServerLoad } from "./$types";
+// declare module 'lodash';
 import _ from "lodash";
 import { processPartifordeling } from "./helpers";
 
