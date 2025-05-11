@@ -1,0 +1,14 @@
+{
+  "redaktorer": {
+    "label": "Redaktører",
+    "fill": "#d70926"
+  },
+  "journalister": {
+    "label": "Journalister",
+    "fill": "#004F80"
+  },
+  "befolkning": {
+    "label": "Befolkning",
+    "fill": "#0065f1"
+  }
+}

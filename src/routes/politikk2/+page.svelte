@@ -19,7 +19,7 @@
 </script>
 
 <p><a href="/">Main</a></p>
-<h1>Politikk (old)</h1>
+<h1>Politikk</h1>
 <button
   on:click={() => {
     const svg = document.querySelector("svg");

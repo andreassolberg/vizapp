@@ -1,0 +1,76 @@
+{
+  "partifordeling": [
+    { "kategori": "redaktorer", "parti": "Arbeiderpartiet", "andel": 21.3 },
+    { "kategori": "journalister", "parti": "Arbeiderpartiet", "andel": 20.2 },
+    { "kategori": "befolkning", "parti": "Arbeiderpartiet", "andel": 14.6 },
+
+    { "kategori": "redaktorer", "parti": "Fremskrittspartiet", "andel": 0.7 },
+    { "kategori": "journalister", "parti": "Fremskrittspartiet", "andel": 3.4 },
+    { "kategori": "befolkning", "parti": "Fremskrittspartiet", "andel": 13.3 },
+
+    { "kategori": "redaktorer", "parti": "Høyre", "andel": 25.0 },
+    { "kategori": "journalister", "parti": "Høyre", "andel": 16.5 },
+    { "kategori": "befolkning", "parti": "Høyre", "andel": 24.2 },
+
+    {
+      "kategori": "redaktorer",
+      "parti": "Sosialistisk Venstreparti",
+      "andel": 13.2
+    },
+    {
+      "kategori": "journalister",
+      "parti": "Sosialistisk Venstreparti",
+      "andel": 22.5
+    },
+    {
+      "kategori": "befolkning",
+      "parti": "Sosialistisk Venstreparti",
+      "andel": 16.4
+    },
+
+    { "kategori": "redaktorer", "parti": "Kristelig Folkeparti", "andel": 4.4 },
+    {
+      "kategori": "journalister",
+      "parti": "Kristelig Folkeparti",
+      "andel": 2.0
+    },
+    { "kategori": "befolkning", "parti": "Kristelig Folkeparti", "andel": 2.3 },
+
+    { "kategori": "redaktorer", "parti": "Senterpartiet", "andel": 1.5 },
+    { "kategori": "journalister", "parti": "Senterpartiet", "andel": 3.1 },
+    { "kategori": "befolkning", "parti": "Senterpartiet", "andel": 3.8 },
+
+    { "kategori": "redaktorer", "parti": "Venstre", "andel": 20.6 },
+    { "kategori": "journalister", "parti": "Venstre", "andel": 11.3 },
+    { "kategori": "befolkning", "parti": "Venstre", "andel": 7.2 },
+
+    { "kategori": "redaktorer", "parti": "Rødt", "andel": 2.9 },
+    { "kategori": "journalister", "parti": "Rødt", "andel": 8.4 },
+    { "kategori": "befolkning", "parti": "Rødt", "andel": 8.6 },
+
+    {
+      "kategori": "redaktorer",
+      "parti": "Miljøpartiet De Grønne",
+      "andel": 10.3
+    },
+    {
+      "kategori": "journalister",
+      "parti": "Miljøpartiet De Grønne",
+      "andel": 12.7
+    },
+    {
+      "kategori": "befolkning",
+      "parti": "Miljøpartiet De Grønne",
+      "andel": 4.4
+    },
+
+    { "kategori": "redaktorer", "parti": "Annet parti", "andel": 0.0 },
+    { "kategori": "journalister", "parti": "Annet parti", "andel": 0.0 },
+    { "kategori": "befolkning", "parti": "Annet parti", "andel": 4.9 }
+  ],
+  "antall_spurte": [
+    { "kategori": "redaktorer", "antall": 136 },
+    { "kategori": "journalister", "antall": 654 },
+    { "kategori": "befolkning", "antall": 833 }
+  ]
+}

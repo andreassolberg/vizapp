@@ -1,0 +1,123 @@
+{
+  "partifordeling": [
+    { "kategori": "redaktorer", "parti": "Arbeiderpartiet", "andel": 35 },
+    { "kategori": "journalister", "parti": "Arbeiderpartiet", "andel": 33 },
+    { "kategori": "befolkning", "parti": "Arbeiderpartiet", "andel": 21 },
+    { "kategori": "befolkningUng", "parti": "Arbeiderpartiet", "andel": 13 },
+    { "kategori": "befolkning25p", "parti": "Arbeiderpartiet", "andel": 23 },
+
+    { "kategori": "redaktorer", "parti": "Fremskrittspartiet", "andel": 5 },
+    { "kategori": "journalister", "parti": "Fremskrittspartiet", "andel": 5 },
+    { "kategori": "befolkning", "parti": "Fremskrittspartiet", "andel": 19 },
+    { "kategori": "befolkningUng", "parti": "Fremskrittspartiet", "andel": 37 },
+    { "kategori": "befolkning25p", "parti": "Fremskrittspartiet", "andel": 18 },
+
+    { "kategori": "redaktorer", "parti": "Høyre", "andel": 20 },
+    { "kategori": "journalister", "parti": "Høyre", "andel": 11 },
+    { "kategori": "befolkning", "parti": "Høyre", "andel": 19 },
+    { "kategori": "befolkningUng", "parti": "Høyre", "andel": 14 },
+    { "kategori": "befolkning25p", "parti": "Høyre", "andel": 20 },
+
+    {
+      "kategori": "redaktorer",
+      "parti": "Sosialistisk Venstreparti",
+      "andel": 6
+    },
+    {
+      "kategori": "journalister",
+      "parti": "Sosialistisk Venstreparti",
+      "andel": 18
+    },
+    {
+      "kategori": "befolkning",
+      "parti": "Sosialistisk Venstreparti",
+      "andel": 10
+    },
+    {
+      "kategori": "befolkningUng",
+      "parti": "Sosialistisk Venstreparti",
+      "andel": 11
+    },
+    {
+      "kategori": "befolkning25p",
+      "parti": "Sosialistisk Venstreparti",
+      "andel": 9
+    },
+
+    { "kategori": "redaktorer", "parti": "Kristelig Folkeparti", "andel": 6 },
+    { "kategori": "journalister", "parti": "Kristelig Folkeparti", "andel": 2 },
+    { "kategori": "befolkning", "parti": "Kristelig Folkeparti", "andel": 3 },
+    {
+      "kategori": "befolkningUng",
+      "parti": "Kristelig Folkeparti",
+      "andel": 2
+    },
+    {
+      "kategori": "befolkning25p",
+      "parti": "Kristelig Folkeparti",
+      "andel": 3
+    },
+
+    { "kategori": "redaktorer", "parti": "Senterpartiet", "andel": 2 },
+    { "kategori": "journalister", "parti": "Senterpartiet", "andel": 2 },
+    { "kategori": "befolkning", "parti": "Senterpartiet", "andel": 4 },
+    { "kategori": "befolkningUng", "parti": "Senterpartiet", "andel": 5 },
+    { "kategori": "befolkning25p", "parti": "Senterpartiet", "andel": 5 },
+
+    { "kategori": "redaktorer", "parti": "Venstre", "andel": 15 },
+    { "kategori": "journalister", "parti": "Venstre", "andel": 10 },
+    { "kategori": "befolkning", "parti": "Venstre", "andel": 6 },
+    { "kategori": "befolkningUng", "parti": "Venstre", "andel": 5 },
+    { "kategori": "befolkning25p", "parti": "Venstre", "andel": 7 },
+
+    { "kategori": "redaktorer", "parti": "Rødt", "andel": 4 },
+    { "kategori": "journalister", "parti": "Rødt", "andel": 9 },
+    { "kategori": "befolkning", "parti": "Rødt", "andel": 9 },
+    { "kategori": "befolkningUng", "parti": "Rødt", "andel": 7 },
+    { "kategori": "befolkning25p", "parti": "Rødt", "andel": 9 },
+
+    { "kategori": "redaktorer", "parti": "Miljøpartiet De Grønne", "andel": 8 },
+    {
+      "kategori": "journalister",
+      "parti": "Miljøpartiet De Grønne",
+      "andel": 8
+    },
+    { "kategori": "befolkning", "parti": "Miljøpartiet De Grønne", "andel": 5 },
+    {
+      "kategori": "befolkningUng",
+      "parti": "Miljøpartiet De Grønne",
+      "andel": 4
+    },
+    {
+      "kategori": "befolkning25p",
+      "parti": "Miljøpartiet De Grønne",
+      "andel": 4
+    },
+
+    {
+      "kategori": "redaktorer",
+      "parti": "Annet parti",
+      "andel": 0
+    },
+    {
+      "kategori": "journalister",
+      "parti": "Annet parti",
+      "andel": 1
+    },
+    {
+      "kategori": "befolkning",
+      "parti": "Annet parti",
+      "andel": 4
+    },
+    {
+      "kategori": "befolkningUng",
+      "parti": "Annet parti",
+      "andel": 3
+    },
+    {
+      "kategori": "befolkning25p",
+      "parti": "Annet parti",
+      "andel": 4
+    }
+  ]
+}

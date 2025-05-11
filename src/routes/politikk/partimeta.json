@@ -1,0 +1,33 @@
+{
+  "Arbeiderpartiet": {
+    "fill": "#d70926"
+  },
+  "Fremskrittspartiet": {
+    "fill": "#004F80"
+  },
+  "Høyre": {
+    "fill": "#0065f1"
+  },
+  "Sosialistisk Venstreparti": {
+    "fill": "#F2EBDD"
+  },
+  "Kristelig Folkeparti": {
+    "fill": "#feee35"
+  },
+  "Senterpartiet": {
+    "fill": "#78be21"
+  },
+  "Venstre": {
+    "fill": "#006666"
+  },
+  "Rødt": {
+    "fill": "#e90302"
+  },
+  "Miljøpartiet De Grønne": {
+    "fill": "#337102"
+  },
+  "Annet parti": {
+    "fill": "#cccccc",
+    "logo": false
+  }
+}

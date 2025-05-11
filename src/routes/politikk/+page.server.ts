@@ -1,0 +1,16 @@
+import type { PageServerLoad } from "./$types";
+import _ from "lodash";
+import { processPartifordeling } from "./helpers";
+
+export const load: PageServerLoad = async ({ fetch }) => {
+  const filenames = ["/politikk-data.json"];
+  let allData: any[] = [];
+
+  for (const filename of filenames) {
+    const response = await fetch(filename);
+    const data = await response.json();
+    allData.push(processPartifordeling(data.partifordeling));
+  }
+
+  return { datasets: allData };
+};
