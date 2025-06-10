@@ -1,0 +1,436 @@
+[
+  {
+    "Kommune": "Horten",
+    "Innlogginger": 310629,
+    "Tjenester": 58,
+    "Elever": 3240,
+    "Fylke": "Vestfold"
+  },
+  {
+    "Kommune": "Holmestrand",
+    "Innlogginger": 509237,
+    "Tjenester": 76,
+    "Elever": 3223,
+    "Fylke": "Vestfold"
+  },
+  {
+    "Kommune": "Tønsberg",
+    "Innlogginger": 765804,
+    "Tjenester": 66,
+    "Elever": 6810,
+    "Fylke": "Vestfold"
+  },
+  {
+    "Kommune": "Sandefjord",
+    "Innlogginger": 1380464,
+    "Tjenester": 61,
+    "Elever": 7736,
+    "Fylke": "Vestfold"
+  },
+  {
+    "Kommune": "Larvik",
+    "Innlogginger": 1088280,
+    "Tjenester": 77,
+    "Elever": 6306,
+    "Fylke": "Vestfold"
+  },
+  {
+    "Kommune": "Færder",
+    "Innlogginger": 341872,
+    "Tjenester": 68,
+    "Elever": 3344,
+    "Fylke": "Vestfold"
+  },
+  {
+    "Kommune": "Porsgrunn",
+    "Innlogginger": 871570,
+    "Tjenester": 70,
+    "Elever": 4414,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Skien",
+    "Innlogginger": 1100233,
+    "Tjenester": 60,
+    "Elever": 6802,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Notodden",
+    "Innlogginger": 242017,
+    "Tjenester": 70,
+    "Elever": 1603,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Siljan",
+    "Innlogginger": 27553,
+    "Tjenester": 39,
+    "Elever": 283,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Bamble",
+    "Innlogginger": 289488,
+    "Tjenester": 57,
+    "Elever": 1721,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Kragerø",
+    "Innlogginger": 222010,
+    "Tjenester": 64,
+    "Elever": 1132,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Drangedal",
+    "Innlogginger": 106705,
+    "Tjenester": 52,
+    "Elever": 513,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Nome",
+    "Innlogginger": 91311,
+    "Tjenester": 47,
+    "Elever": 821,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Midt-Telemark",
+    "Innlogginger": 159413,
+    "Tjenester": 53,
+    "Elever": 1532,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Seljord",
+    "Innlogginger": 50378,
+    "Tjenester": 29,
+    "Elever": 492,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Hjartdal",
+    "Innlogginger": 9844,
+    "Tjenester": 28,
+    "Elever": 217,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Tinn",
+    "Innlogginger": 85411,
+    "Tjenester": 61,
+    "Elever": 562,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Kviteseid",
+    "Innlogginger": 32327,
+    "Tjenester": 37,
+    "Elever": 328,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Nissedal",
+    "Innlogginger": 23371,
+    "Tjenester": 44,
+    "Elever": 245,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Fyresdal",
+    "Innlogginger": 19317,
+    "Tjenester": 42,
+    "Elever": 181,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Tokke",
+    "Innlogginger": 27213,
+    "Tjenester": 48,
+    "Elever": 350,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Vinje",
+    "Innlogginger": 56416,
+    "Tjenester": 61,
+    "Elever": 600,
+    "Fylke": "Telemark"
+  },
+  {
+    "Kommune": "Loppa",
+    "Innlogginger": 2356,
+    "Tjenester": 25,
+    "Elever": 58,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Berlevåg",
+    "Innlogginger": 9758,
+    "Tjenester": 39,
+    "Elever": 77,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Måsøy",
+    "Innlogginger": 10213,
+    "Tjenester": 40,
+    "Elever": 129,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Nesseby",
+    "Innlogginger": 13040,
+    "Tjenester": 40,
+    "Elever": 77,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Vardø",
+    "Innlogginger": 14079,
+    "Tjenester": 34,
+    "Elever": 204,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Båtsfjord",
+    "Innlogginger": 14875,
+    "Tjenester": 35,
+    "Elever": 243,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Hasvik",
+    "Innlogginger": 15117,
+    "Tjenester": 34,
+    "Elever": 97,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Gamvik",
+    "Innlogginger": 17185,
+    "Tjenester": 36,
+    "Elever": 89,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Nordkapp",
+    "Innlogginger": 17358,
+    "Tjenester": 38,
+    "Elever": 286,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Lebesby",
+    "Innlogginger": 21580,
+    "Tjenester": 34,
+    "Elever": 120,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Kautokeino",
+    "Innlogginger": 29054,
+    "Tjenester": 37,
+    "Elever": 398,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Porsanger",
+    "Innlogginger": 29588,
+    "Tjenester": 45,
+    "Elever": 417,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Tana",
+    "Innlogginger": 31101,
+    "Tjenester": 52,
+    "Elever": 261,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Karasjok",
+    "Innlogginger": 41874,
+    "Tjenester": 45,
+    "Elever": 250,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Vadsø",
+    "Innlogginger": 114013,
+    "Tjenester": 51,
+    "Elever": 666,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Sør-Varanger",
+    "Innlogginger": 155041,
+    "Tjenester": 54,
+    "Elever": 1173,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Hammerfest",
+    "Innlogginger": 189708,
+    "Tjenester": 59,
+    "Elever": 1543,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Alta",
+    "Innlogginger": 359040,
+    "Tjenester": 67,
+    "Elever": 3028,
+    "Fylke": "Finnmark"
+  },
+  {
+    "Kommune": "Gratangen",
+    "Innlogginger": 9486,
+    "Tjenester": 23,
+    "Elever": 84,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Lavangen",
+    "Innlogginger": 12528,
+    "Tjenester": 39,
+    "Elever": 197,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Kåfjord",
+    "Innlogginger": 13506,
+    "Tjenester": 42,
+    "Elever": 191,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Ibestad",
+    "Innlogginger": 14373,
+    "Tjenester": 33,
+    "Elever": 71,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Dyrøy",
+    "Innlogginger": 15013,
+    "Tjenester": 35,
+    "Elever": 121,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Kvænangen",
+    "Innlogginger": 21292,
+    "Tjenester": 39,
+    "Elever": 175,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Storfjord",
+    "Innlogginger": 22448,
+    "Tjenester": 36,
+    "Elever": 203,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Skjervøy",
+    "Innlogginger": 25079,
+    "Tjenester": 54,
+    "Elever": 358,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Nordreisa",
+    "Innlogginger": 30428,
+    "Tjenester": 55,
+    "Elever": 454,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Lyngen",
+    "Innlogginger": 33314,
+    "Tjenester": 50,
+    "Elever": 273,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Karlsøy",
+    "Innlogginger": 40385,
+    "Tjenester": 41,
+    "Elever": 235,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Salangen",
+    "Innlogginger": 40594,
+    "Tjenester": 45,
+    "Elever": 254,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Tjeldsund",
+    "Innlogginger": 49518,
+    "Tjenester": 46,
+    "Elever": 433,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Kvæfjord",
+    "Innlogginger": 54361,
+    "Tjenester": 49,
+    "Elever": 346,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Bardu",
+    "Innlogginger": 60217,
+    "Tjenester": 43,
+    "Elever": 537,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Målselv",
+    "Innlogginger": 86163,
+    "Tjenester": 60,
+    "Elever": 861,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Balsfjord",
+    "Innlogginger": 86669,
+    "Tjenester": 61,
+    "Elever": 722,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Sørreisa",
+    "Innlogginger": 102823,
+    "Tjenester": 46,
+    "Elever": 492,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Senja",
+    "Innlogginger": 274257,
+    "Tjenester": 69,
+    "Elever": 1815,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Harstad",
+    "Innlogginger": 511036,
+    "Tjenester": 68,
+    "Elever": 3154,
+    "Fylke": "Troms"
+  },
+  {
+    "Kommune": "Tromsø",
+    "Innlogginger": 897382,
+    "Tjenester": 75,
+    "Elever": 9049,
+    "Fylke": "Troms"
+  }
+]
