@@ -5,6 +5,7 @@
   import * as d3 from "d3";
 
   export let config;
+  export let height;
   export let markers;
   export let mapsK;
   export let mapsF;
@@ -19,7 +20,7 @@
     Finnmark: [47, 63.1],
     Telemark: [9, 59.2],
     Vestfold: [10.2, 59.2],
-    "Møre og Romsdal": [7, 62.5],
+    "Møre og Romsdal": [7, 63.5],
   };
 
   let scales: any = {
@@ -27,7 +28,7 @@
     Finnmark: 650,
     Telemark: 1100,
     Vestfold: 1350,
-    "Møre og Romsdal": 850,
+    "Møre og Romsdal": 1175,
   };
 
   // Parse label to get array of fylker
@@ -38,8 +39,8 @@
     label === "Telemark|Vestfold"
       ? "Digi Vestfold/Telemark"
       : label === "Møre og Romsdal"
-      ? "Digi Møre og Romsdal"
-      : label;
+        ? "Digi Møre og Romsdal"
+        : label;
 
   // Get center based on label (supports both single and multiple fylker)
   $: center = centers[label] || [20, 69];
@@ -133,8 +134,8 @@
 
 <svg
   width={config.width}
-  height={config.height}
-  viewBox={`0 0 ${config.width} ${config.height}`}
+  height={height}
+  viewBox={`0 0 ${config.width} ${height}`}
   xmlns="http://www.w3.org/2000/svg"
   style="shape-rendering: crispEdges; border: 1px solid #eee; font-family: IBM Plex Sans"
 >

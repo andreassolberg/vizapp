@@ -12,7 +12,6 @@
   let config = {
     margin: 40,
     marginTop: 60,
-    height: 900,
     width: 1100,
     rowText: 250,
   };
@@ -24,6 +23,10 @@
 
     return isIncluded;
   });
+
+  // Calculate dynamic height based on number of municipalities
+  // Formula: marginTop + headers (60) + (municipalities × 30) + legend (3 × 30) + bottom margin
+  $: dynamicHeight = config.marginTop + 60 + (data1.length * 30) + (3 * 30) + config.margin;
 </script>
 
 <main>
@@ -85,6 +88,7 @@
 
   <FeideStats
     {config}
+    height={dynamicHeight}
     markers={data1}
     label={selectedFylke}
     mapsK={data.mapK}
