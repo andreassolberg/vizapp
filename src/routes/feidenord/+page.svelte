@@ -57,6 +57,15 @@
       />
       Telemark|Vestfold
     </label>
+    <label>
+      <input
+        type="radio"
+        bind:group={selectedFylke}
+        name="fylke"
+        value="Møre og Romsdal"
+      />
+      Digi Møre og Romsdal
+    </label>
   </div>
   <button
     on:click={() => {

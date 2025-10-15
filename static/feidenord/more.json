@@ -1,0 +1,191 @@
+[
+  {
+    "Kommune": "Gjemnes",
+    "Innlogginger": 22015,
+    "Tjenester": 43,
+    "Elever": 258,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Smøla",
+    "Innlogginger": 27354,
+    "Tjenester": 48,
+    "Elever": 321,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Sande",
+    "Innlogginger": 31982,
+    "Tjenester": 34,
+    "Elever": 309,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Tingvoll",
+    "Innlogginger": 32935,
+    "Tjenester": 45,
+    "Elever": 473,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Vanylven",
+    "Innlogginger": 35245,
+    "Tjenester": 49,
+    "Elever": 377,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Stranda",
+    "Innlogginger": 50510,
+    "Tjenester": 49,
+    "Elever": 550,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Fjord",
+    "Innlogginger": 56592,
+    "Tjenester": 61,
+    "Elever": 350,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Aure",
+    "Innlogginger": 58549,
+    "Tjenester": 59,
+    "Elever": 434,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Surnadal",
+    "Innlogginger": 81199,
+    "Tjenester": 60,
+    "Elever": 920,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Sunndal",
+    "Innlogginger": 89876,
+    "Tjenester": 54,
+    "Elever": 1078,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Averøy",
+    "Innlogginger": 93622,
+    "Tjenester": 58,
+    "Elever": 864,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Aukra",
+    "Innlogginger": 95299,
+    "Tjenester": 49,
+    "Elever": 763,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Hareid",
+    "Innlogginger": 116145,
+    "Tjenester": 50,
+    "Elever": 874,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Herøy",
+    "Innlogginger": 125542,
+    "Tjenester": 49,
+    "Elever": 1221,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Sykkylven",
+    "Innlogginger": 134357,
+    "Tjenester": 58,
+    "Elever": 920,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Vestnes",
+    "Innlogginger": 135891,
+    "Tjenester": 50,
+    "Elever": 909,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Volda",
+    "Innlogginger": 139884,
+    "Tjenester": 58,
+    "Elever": 1506,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Rauma",
+    "Innlogginger": 151898,
+    "Tjenester": 57,
+    "Elever": 935,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Sula",
+    "Innlogginger": 173816,
+    "Tjenester": 50,
+    "Elever": 1599,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Giske",
+    "Innlogginger": 175858,
+    "Tjenester": 57,
+    "Elever": 1422,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Ulstein",
+    "Innlogginger": 191576,
+    "Tjenester": 65,
+    "Elever": 1173,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Haram",
+    "Innlogginger": 219170,
+    "Tjenester": 50,
+    "Elever": 1008,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Ørsta",
+    "Innlogginger": 314918,
+    "Tjenester": 60,
+    "Elever": 1535,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Kristiansund",
+    "Innlogginger": 350908,
+    "Tjenester": 67,
+    "Elever": 2866,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Hustadvika",
+    "Innlogginger": 376125,
+    "Tjenester": 64,
+    "Elever": 1905,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Molde",
+    "Innlogginger": 568967,
+    "Tjenester": 68,
+    "Elever": 4976,
+    "Fylke": "Møre og Romsdal"
+  },
+  {
+    "Kommune": "Ålesund",
+    "Innlogginger": 1545265,
+    "Tjenester": 77,
+    "Elever": 7968,
+    "Fylke": "Møre og Romsdal"
+  }
+]

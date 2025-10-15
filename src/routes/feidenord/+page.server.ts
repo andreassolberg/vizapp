@@ -5,7 +5,12 @@ import _ from "lodash";
 
 export const load: PageServerLoad = async ({ fetch }) => {
   const response = await fetch("/feidenord/feidenord.json");
-  const feidestats = await response.json();
+  const feidestats1 = await response.json();
+
+  const response2 = await fetch("/feidenord/more.json");
+  const feidestats2 = await response2.json();
+
+  const feidestats = [...feidestats1, ...feidestats2];
 
   const mapF = await fetch("/kart/Fylker-S.geojson").then((res) => res.json());
   const mapK = await fetch("/kart/Kommuner-S.geojson").then((res) =>

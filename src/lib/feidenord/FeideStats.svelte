@@ -19,6 +19,7 @@
     Finnmark: [47, 63.1],
     Telemark: [9, 59.2],
     Vestfold: [10.2, 59.2],
+    "Møre og Romsdal": [7, 62.5],
   };
 
   let scales: any = {
@@ -26,10 +27,19 @@
     Finnmark: 650,
     Telemark: 1100,
     Vestfold: 1350,
+    "Møre og Romsdal": 850,
   };
 
   // Parse label to get array of fylker
   $: selectedFylker = label.split("|");
+
+  // Create display label
+  $: displayLabel =
+    label === "Telemark|Vestfold"
+      ? "Digi Vestfold/Telemark"
+      : label === "Møre og Romsdal"
+      ? "Digi Møre og Romsdal"
+      : label;
 
   // Get center based on label (supports both single and multiple fylker)
   $: center = centers[label] || [20, 69];
@@ -95,8 +105,8 @@
 
   let rowHeaders = config.marginTop + 30;
   let rowMain = rowHeaders + 30;
-  let colKommune = config.margin + 100;
-  let colSbox = colKommune + 100;
+  let colKommune = config.margin + 80;
+  let colSbox = colKommune + 140;
   let colPr = colSbox + 130;
   let colInnlogginger = colPr + 40;
 
@@ -133,7 +143,7 @@
     y={config.marginTop}
     font-family="IBM Plex Sans"
     font-size="36"
-    fill="#062356">Bruk av Feide i {label}</text
+    fill="#062356">Bruk av Feide i {displayLabel}</text
   >
 
   <text
@@ -210,6 +220,14 @@
       alignment-baseline="middle"
       font-size="16"
       fill={dark(i)}>{marker.Kommune}</text
+    >
+    // Tjenester count.
+    <text
+      x={colSbox - 16}
+      y={yScale(i)}
+      alignment-baseline="middle"
+      font-size="10"
+      fill={dark(i)}>{marker.Tjenester}</text
     >
     <circle
       cx={colPr}
